@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD11E8CC1DF9B1FD00385D26 /* dinner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BD11E8CB1DF9B1FD00385D26 /* dinner.jpg */; };
 		BD85CA471DF9A3F9007EFE32 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD85CA461DF9A3F9007EFE32 /* AppDelegate.swift */; };
 		BD85CA491DF9A3F9007EFE32 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD85CA481DF9A3F9007EFE32 /* ViewController.swift */; };
 		BD85CA4C1DF9A3F9007EFE32 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD85CA4A1DF9A3F9007EFE32 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD11E8CB1DF9B1FD00385D26 /* dinner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dinner.jpg; sourceTree = "<group>"; };
 		BD85CA431DF9A3F9007EFE32 /* TipCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD85CA461DF9A3F9007EFE32 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD85CA481DF9A3F9007EFE32 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				BD85CA461DF9A3F9007EFE32 /* AppDelegate.swift */,
 				BD85CA481DF9A3F9007EFE32 /* ViewController.swift */,
 				BD85CA4A1DF9A3F9007EFE32 /* Main.storyboard */,
+				BD11E8CB1DF9B1FD00385D26 /* dinner.jpg */,
 				BD85CA4D1DF9A3F9007EFE32 /* Assets.xcassets */,
 				BD85CA4F1DF9A3F9007EFE32 /* LaunchScreen.storyboard */,
 				BD85CA521DF9A3F9007EFE32 /* Info.plist */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD85CA511DF9A3F9007EFE32 /* LaunchScreen.storyboard in Resources */,
+				BD11E8CC1DF9B1FD00385D26 /* dinner.jpg in Resources */,
 				BD85CA4E1DF9A3F9007EFE32 /* Assets.xcassets in Resources */,
 				BD85CA4C1DF9A3F9007EFE32 /* Main.storyboard in Resources */,
 			);
@@ -300,6 +304,7 @@
 				BD85CA571DF9A3F9007EFE32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
